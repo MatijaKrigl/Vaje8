@@ -1,0 +1,2 @@
+C:\Users\matij\source\repos\NALOGE8\NALOGE8\obj\Debug\NALOGE8.csproj.AssemblyReference.cache
+C:\Users\matij\source\repos\NALOGE8\NALOGE8\obj\Debug\NALOGE8.csproj.CoreCompileInputs.cache
